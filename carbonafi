@@ -1,0 +1,40 @@
+<div class="w-[1440px] h-[1929px] bg-white">
+  <img class="w-[1440px] h-[840px] object-cover">
+  <div class="flex flex-col gap-16 bg-gradient-to-b from-black to-[#1e1e1e] px-[72px] py-[120px]">
+    <div class="w-[1296px] flex flex-col items-center gap-4">
+      <div class="flex justify-center items-center gap-2.5 self-stretch">
+        <span class="font-normal text-[28px] leading-[5.357142857142857%] text-center underline text-[#9c9c9c]">vision</span>
+      </div>
+      <div class="flex justify-center items-center gap-2.5 self-stretch">
+        <span class="font-normal text-[28px] leading-[44px] text-center text-white">Transforming the Global Carbon Market
+</span>
+      </div>
+    </div>
+    <div class="w-[1296px] h-[470px]">
+      <div class="w-[636px] h-[284px] pl-6">
+        <div class="self-stretch w-[612px] h-[180px]">
+          <div class="w-[486px] h-[180px]">
+            <div class="self-stretch w-[526px] h-[180px]">
+              <span class="font-normal text-[20px] leading-[30px] text-white">CarbonaFi is creating the most advanced digital marketplace for carbon credits, ensuring transparency, inclusivity, and global liquidity. We envision a world where carbon credits are as accessible and trusted as any financial asset, driving meaningful global change through innovative technology</span>
+            </div>
+          </div>
+        </div>
+        <div class="justify-center items-center w-[202px] h-14 px-9 py-4 rounded-lg border border-solid border-[#8ffe09]">
+          <span class="font-medium text-[16px] text-[#8ffe09]">Who We Are</span>
+          <div class="w-6 h-6">
+            <svg class="w-[15.999771118164062px] h-0"></svg>
+            <svg class="w-[5.660099029541016px] h-[5.659999847412109px]"></svg>
+            <svg class="w-[5.660099029541016px] h-[5.660049915313721px]"></svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <img class="justify-center items-center w-[1440px] h-[800px] object-cover px-[72px]">
+  <div class="items-center w-[774px] h-[184.78173828125px]">
+    <span class="font-normal leading-[86.51162719726562px] underline bg-gradient-to-b from-white to-white">Revolutionizing the Carbon Credits Market
+ </span>
+    <span class="font-normal text-[27px] text-white">Setting the Standard in Carbon Credit Exchange</span>
+  </div>
+  <div class="justify-between items-center w-[1439px] h-[116.05886840820312px] px-[72px] py-9"></div>
+</div>
